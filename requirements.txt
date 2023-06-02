@@ -1,0 +1,16 @@
+pandas==1.5.3
+plotly==5.9.0
+prophet==1.1.3
+ydata_profiling==4.2.0
+lightgbm==3.3.5
+mlforecast==0.7.3
+neuralforecast==1.5.0
+numba==0.56.4
+numpy==1.23.5
+pandas==1.5.3
+plotly==5.9.0
+prophet==1.1.3
+scikit_learn==1.2.1
+streamlit==1.22.0
+window_ops==0.0.14
+xgboost==1.7.5
